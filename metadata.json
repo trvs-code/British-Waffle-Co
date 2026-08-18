@@ -1,0 +1,6 @@
+{
+  "name": "British Waffle Co.",
+  "description": "Premium modern website for British Waffle Co. - Pure vegetarian waffles, bubble waffles, and cold shakes in Malad East, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
